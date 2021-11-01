@@ -1,0 +1,48 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body {
+     background-color: rgb(220, 188, 247);
+     overflow-x: hidden;
+     font-family: cursive;
+}
+h1 {
+     white-space: nowrap;
+}
+.wcard {
+     align-items: center;
+     text-align: center;
+     padding: 10%;
+     margin-top: 5%;
+     border: solid #ffff;
+     border-radius: 20%;
+     width: 300px;
+     background-color: #fff;
+     box-shadow: 10px 10px rgba(91, 159, 204, 0.534);
+     margin: 30px;
+}
+.wcard {
+     list-style: none;
+}
+.wcard img {
+    width: 70px;
+}
+ul{
+     white-space:nowrap;
+}
+li {
+     list-style: none;
+     display:inline;
+     
+}
+.country-span {
+     background-color: rgb(245, 103, 8);
+     vertical-align: text-top;
+     color: wheat;
+     font-size: 10px;
+     margin: 5px;
+     padding: 5px;
+     border-radius: 50%;
+}
